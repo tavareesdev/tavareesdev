@@ -1,6 +1,8 @@
 ## Fala meu povo! Me chamo Gabriel Tavares e sou Desenvolvedor Júnior!
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tavareesdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareesdev&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="left" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tavareesdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareesdev&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 <br>
 
 - 👨‍🏫 Atualmente trabalho como Professor de Informática
