@@ -1,7 +1,7 @@
 ## Fala meu povo! Me chamo Gabriel Tavares e sou Desenvolvedor Full Stack!
 
 <div align="left" >
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tavareesdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tavareesdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 </div>
 <br>
 
