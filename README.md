@@ -1,13 +1,12 @@
-## Fala meu povo! Me chamo Gabriel Tavares e sou Desenvolvedor Júnior!
+## Fala meu povo! Me chamo Gabriel Tavares e sou Desenvolvedor Full Stack!
 
 <div align="left" >
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tavareesdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
 </div>
 <br>
 
-- 👨‍🏫 Atualmente trabalho como Professor de Informática
-- 🧑‍💻 Curso Análise e Desenvolvimento de Sistemas pela UNIP
-- 💻 Já trabalhei com linguagens ColdFusion, JavaScript, JQuery, PHP, SQL e Python
+- 💻 Experiência com PHP, Wordpress, C, ColdFusion, JavaScript, JQuery, SQL e Python.
+- 🧑‍💻 3º Semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP.
 
 <br>
 <p align="left">
