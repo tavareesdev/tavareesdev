@@ -124,11 +124,6 @@ Sistema de gestão de chamados com **IA** para otimizar tempo de resposta e redu
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tavareesdev&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavareesdev&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavareesdev&hide_border=true" alt="streak stats" />
 </p>
 
